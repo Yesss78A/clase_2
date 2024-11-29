@@ -1,0 +1,25 @@
+h1{
+    background-color: aqua;
+    margin: 10px;
+    padding: 20px;
+    border: solid rgb(400, 10, 210);
+}
+
+.producto img{
+    width: 474px;
+    height: 316px;
+}
+
+section{
+    background-color: #0044b4;
+    width: 1400px;
+    height: 466px;
+}
+
+figure{
+    display: inline-block;
+    color: beige;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
